@@ -8,5 +8,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Dies ist ein Swift-Programm,\ndas mithilfe von Escape-Sequenzen sogar Zeichen\nwie \"\"\", \"\\\" und \"'\",\ndie in Swift bereits eine Bedetung haben, ausgibt.")
 
